@@ -1,0 +1,21 @@
+.speech {
+  font-size: 12px;
+  font-style: italic;
+  color: blue;
+  font-family: "Times New Roman";
+}
+
+.direction {
+  font-size: 17px;
+  font-style: italic;
+  color: black;
+  background-color: lavender;
+  font-family: "Times New Roman";
+}
+
+.name {
+  font-size: 17px;
+  font-style: italic;
+  color: black;
+  font-family: "Times New Roman";
+}
