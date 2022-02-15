@@ -19,3 +19,88 @@
   color: black;
   font-family: "Times New Roman";
 }
+
+h6.name {
+  margin-block: auto;
+}
+
+
+
+.Dorine {
+  color:rgb(168, 14, 14);
+}
+// Orgon
+.Orgon {
+  color:rgb(34, 201, 201)
+}
+
+
+
+table {
+  border: solid 3px rgb(22, 18, 224);
+  width: 35%;
+  border-collapse: collapse;
+  margin: 5px;
+}
+
+th, td {
+  border: solid 2px;
+  text-align: center;
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #f0db21;
+}
+
+.Dorine:hover {
+  text-shadow: 2px 3px 4px rosybrown;
+  border: solid 2px rgb(189, 25, 25);
+}
+
+ul.navbar-horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul.navbar-horizontal li {
+  float:left;
+  background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+  display:block;
+  padding:8px;
+  color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+  background-color: darkslateblue;
+  color:yellowgreen;
+}
+
+h6.Dorine:hover {
+  border: 2px solid rgb(207, 190, 201);
+  box-shadow: 2px 3px rgb(223, 190, 211);
+}
+
+
+
+
+
+.MAR {
+  color:rgb(182, 49, 26);
+}
+.FRO{
+  color:rgb(123, 14, 224);
+}
+
+
+
+h6.FRO:hover {
+  border: 2px solid rgb(92, 199, 21);
+  box-shadow: 2px 3px rgb(66, 219, 28);
+}
+
+h6.MAR:hover {
+  border: 2px solid rgb(230, 163, 20);
+  box-shadow: 2px 3px rgb(16, 76, 241);
+}
