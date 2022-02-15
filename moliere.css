@@ -90,24 +90,3 @@ h6.Dorine:hover {
 }
 
 
-
-
-
-.MAR {
-  color:rgb(182, 49, 26);
-}
-.FRO{
-  color:rgb(123, 14, 224);
-}
-
-
-
-h6.FRO:hover {
-  border: 2px solid rgb(92, 199, 21);
-  box-shadow: 2px 3px rgb(66, 219, 28);
-}
-
-h6.MAR:hover {
-  border: 2px solid rgb(230, 163, 20);
-  box-shadow: 2px 3px rgb(16, 76, 241);
-}
