@@ -1,0 +1,33 @@
+.speech {
+    background-color: yellow;
+    font: 15px Arial;
+    font-size: 12px;
+    color: black;
+  }
+
+  .direction {
+    background-color: rgb(107, 238, 231);
+    font: 15px sans-serif;
+    font-size: 15px;
+    color: black;
+    
+  }
+  .direction:hover {
+    background-color: yellow;
+    color: rgba(235, 18, 18, 0.979);
+    
+
+  }
+
+  .name {
+    background-color: yellow;
+    font: 15px calibri;
+    font-size: 12px;
+    color: black;
+  }
+
+  .name.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+
