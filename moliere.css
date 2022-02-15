@@ -38,22 +38,29 @@ h4.name {
 
 table {
   border: solid 3px rgb(22, 18, 224);
-  width: 35%;
+  width: 72%;
   border-collapse: collapse;
   margin: 5px;
+  padding: 10%;
 }
 
 th, td {
   border: solid 2px;
-  text-align: center;
+  
   padding: 12px;
 }
 
 tr:nth-child(even) {
   background-color: #f0db21;
+  text-align: left;
+
 }
 
 .Dorine:hover {
+  text-shadow: 2px 3px 4px rosybrown;
+  border: solid 2px rgb(189, 25, 25);
+}
+.Orgon:hover {
   text-shadow: 2px 3px 4px rosybrown;
   border: solid 2px rgb(189, 25, 25);
 }
