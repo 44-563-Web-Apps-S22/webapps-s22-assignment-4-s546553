@@ -20,11 +20,24 @@
   font-family: "Times New Roman";
 }
 
+.Dorine:hover {
+ 
+  border: solid 2.5px rgb(189, 25, 25);
+  
+  text-shadow:2px 3px 5px rgb(39, 26, 221);
+  color: transparent;
+
+}
+.Orgon:hover {
+  border: solid 2.5px rgb(29, 208, 166);
+  
+  text-shadow:2px 3px 5px rgb(218, 27, 74);
+  color: transparent;
+}
+
 h4.name {
   margin-block: auto;
 }
-
-
 
 .Dorine {
   color:rgb(168, 14, 14);
@@ -54,15 +67,6 @@ tr:nth-child(even) {
   background-color: #f0db21;
   text-align: left;
 
-}
-
-.Dorine:hover {
-  text-shadow: 6px 6px 6px rgb(245, 6, 6);
-  border: solid 2.5px rgb(189, 25, 25);
-}
-.Orgon:hover {
-  text-shadow: 3px 4px 4px rgb(248, 7, 7);
-  border: solid 2.5px rgb(189, 25, 25);
 }
 
 ul.navbar-horizontal {
